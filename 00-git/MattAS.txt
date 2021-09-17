@@ -1,1 +1,1 @@
-ECHO is on.
+finished Exercise 3.
